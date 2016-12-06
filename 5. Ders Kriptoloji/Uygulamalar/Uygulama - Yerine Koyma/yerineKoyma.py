@@ -39,3 +39,28 @@ plainText     = "necmeddin"
 shiftValue    = 400
 encryptedText = kripto(plainText,     shiftValue, mod = "C")
 decryptedText = kripto(encryptedText, shiftValue, mod = "D")
+
+# şifreleme_deşifreleme (açık_metin, gizli_anahtar, mod= (şifrele, deşifrele)) ? şifreli_metin
+# Anahtar kullarak şifreleme ve deşifreleme yapar.
+# Anahtar shift value hesaplamak için kullanılır
+# Shift val hesaplanırken anahtardaki her bir karakter toplanarak tek bir integer değer elde edilir.
+# Parametre olarak shift value yerine anahtar kullanılıyor ve şifreleme için ilk kripto fonksiyonunu çağırıyor
+# kripto algoritmasına benzer şekilde bu yöntemde gizli anahtar kullanılmış olmasına rağmen algoritmanın
+# gizliliği önemlidir, çünkü anahtardan üretilen shift değeri tüm xor işlemleri için sabit olacaktır ve maksimum
+# 256 karakterlik bir kümenin elamanı olacaktır
+#
+def kripto_anahtar(anahtar, text, mod ):
+    
+    shift_val = 0 # Anahtar yoksa metnin kendisini geri döndür
+    
+    # Anahtardan shift_val hesapla
+    for char in anahtar:
+        shift_val = shift_val+ord(char)
+    print "Anahtar Shift Değeri : "+str(shift_val)
+        
+    return kripto(text,int(shift_val),mod)
+
+anahtar       = "anahtar"
+plainText     = "necmeddin"
+encryptedText = kripto_anahtar(anahtar, plainText,      mod = "C")
+decryptedText = kripto_anahtar(anahtar, encryptedText,  mod = "D")
