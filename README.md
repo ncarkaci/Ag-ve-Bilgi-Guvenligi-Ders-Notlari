@@ -1,4 +1,4 @@
-# Ag-ve-Bilgi-Guvenligi-Ders-Notlari
+# Ağ ve Bilgi Güvenliği Ders Notları
 
 Ağ ve Bilgi Güvenliği;
 * 1.  Ders : Siber Güvenliğe Giriş
