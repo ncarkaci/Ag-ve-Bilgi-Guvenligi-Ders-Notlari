@@ -7,12 +7,12 @@ Ağ ve Bilgi Güvenliği;
 * 4.  Ders : Risk Analizi 
 * 5.  Ders : Kriptoloji 
 * 6.  Ders : Stenografi
-* 7.  Ders : Zararlı Kod Analizi
-* 8.  Ders : Sızma Testi
-* 9.  Ders : Pasif Bilgi Toplama
-* 10. Ders : Aktif Bilgi Toplama
-* 11. Ders : Ağ Güvenliği
-* 12. Ders : Zaafiyet Keşfi
+* 7.  Ders : Sızma Testi
+* 8.  Ders : Pasif Bilgi Toplama
+* 9.  Ders : Aktif Bilgi Toplama
+* 10. Ders : Ağ Güvenliği
+* 11. Ders : Zaafiyet Keşfi
+* 12. Ders : Zararlı Kod Analizi
 * 13. Ders : Zararlı Kod Oluşturma Yöntemleri
 * 14. Ders : Dijital Adli Analiz
 * 15. Ders : Web Güvenliği
