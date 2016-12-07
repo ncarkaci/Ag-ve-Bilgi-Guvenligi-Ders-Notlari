@@ -1,0 +1,1 @@
+sudo nmap -n -Pn -sS -T4 --top-ports 10 95.14.98.101
