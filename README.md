@@ -3,7 +3,7 @@
 Ağ ve Bilgi Güvenliği;
 * 1.  Ders : Siber Güvenliğe Giriş
 * 2.  Ders : Linux & Temel Komutlar
-* 3.  Ders : Pyhon
+* 3.  Ders : Python
 * 4.  Ders : Risk Analizi 
 * 5.  Ders : Kriptoloji 
 * 6.  Ders : Stenografi
