@@ -1,0 +1,15 @@
+Essentially an image is an array of values, and what those values mean depends on the mapping process that is being applied. They could indicate…
+
+1. Look up (Direct Replacement Value)
+
+2. Image Masking (Color should come from?)
+
+3. Highlighting ( Pixels to be darked or lighted)
+
+4. Blurring pixels at locations.
+
+5. Distortion (Specifying a source co-ordinate)
+
+6. Displacement (Location relative to current position)
+
+https://shankaraman.wordpress.com/category/ctf/stegano/page/2/
