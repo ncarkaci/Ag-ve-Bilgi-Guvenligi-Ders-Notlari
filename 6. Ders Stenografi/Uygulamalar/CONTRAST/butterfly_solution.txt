@@ -1,2 +1,0 @@
-Opening the file with GIMP shows us a butterfly.
-Using the Colors->Curves menu we open the color curves. Adjusting the first 'value' curve to the right hand bottom corner reveals the flag on the image. 
