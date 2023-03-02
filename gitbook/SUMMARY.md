@@ -1,6 +1,6 @@
 # Table of contents
 
-* [👋 Welcome to A Product](README.md)
+* [👋 Ağ ve Bilgi Güvenliği Ders Notları](README.md)
 
 ## Overview
 
