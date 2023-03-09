@@ -1,0 +1,2 @@
+# Zararlı Kod Oluşturma Yöntemleri
+

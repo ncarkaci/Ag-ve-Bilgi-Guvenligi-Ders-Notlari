@@ -1,0 +1,2 @@
+# Aktif Bilgi Toplama
+
