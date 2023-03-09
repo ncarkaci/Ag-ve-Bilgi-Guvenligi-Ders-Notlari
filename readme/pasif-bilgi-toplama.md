@@ -1,0 +1,2 @@
+# Pasif Bilgi Toplama
+
