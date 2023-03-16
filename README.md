@@ -1,6 +1,5 @@
-# Table of contents
+# Ağ ve Bilgi Güvenliği Ders Notları
 
-* [Ağ ve Bilgi Güvenliği Ders Notları](README.md)
 * [Siber Güvenliğe Giriş, Temel Kavramlar ve Güncel Trendler](siber-guevenlige-giris-temel-kavramlar-ve-guencel-trendler.md)
 * [Linux Temel Komutlar & Python Temel Kavramlar](linux-temel-komutlar-and-python-temel-kavramlar.md)
 * [Risk Analizi](risk-analizi.md)
