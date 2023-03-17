@@ -1,10 +1,37 @@
 # Komut Satırı
 
+Linux Shell, kullanıcının komutları yazdığı ve çalıştırdığı bir komut yorumlayıcısıdır. Shell, kullanıcı ile işletim sistemi arasında bir arayüz görevi görür ve komutları kabul eder, yorumlar ve sonuçlarını kullanıcıya geri döndürür.
+
+Birçok farklı Linux kabuğu mevcuttur, ancak en yaygın olanı Bash (Bourne-Again SHell)'tir. Bash, UNIX'teki orijinal Bourne Shell'in bir geliştirmesi olarak ortaya çıktı ve Linux için standart kabuk olarak kullanılıyor.
+
+Kullanıcılar, kabukta bir komut yazarken veya çalıştırırken birçok farklı işlem yapabilirler. Bazı örnekler şunlardır:
+
+* Dosya sistemini gezinme
+* Dosya ve dizinleri oluşturma, kopyalama, taşıma ve silme
+* Dosya içeriği okuma ve yazma
+* Dosyaları ve dizinleri arama ve sıralama
+* Programları çalıştırma ve durdurma
+* Sistem ayarlarını ve ortam değişkenlerini ayarlama
+
 **ls komutu**: Bu komut, mevcut dizindeki dosya ve klasörleri listeler.
 
 ```bash
 $ ls
 Desktop  Documents  Downloadsbash
+```
+
+```bash
+$ ls -la
+total 64
+drwxr-xr-x  16 user  staff   512 Mar 17 11:44 .
+drwxr-xr-x  18 user  staff   576 Mar 17 10:47 ..
+-rw-r--r--   1 user  staff     0 Mar 17 11:23 .file1
+-rw-r--r--   1 user  staff     0 Mar 17 11:23 .file2
+drwxr-xr-x   4 user  staff   128 Mar 17 11:36 folder1
+drwxr-xr-x   4 user  staff   128 Mar 17 11:44 folder2
+-rw-r--r--   1 user  staff  1656 Mar 17 11:23 index.html
+-rw-r--r--   1 user  staff     0 Mar 17 11:23 script.js
+
 ```
 
 **cd komutu**: Bu komut, belirtilen dizine geçiş yapar.
