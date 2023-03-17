@@ -1,4 +1,5 @@
 ---
+description: Linux Shell Nedir ve Nasıl Çalışır?
 cover: >-
   https://images.unsplash.com/photo-1629654297299-c8506221ca97?crop=entropy&cs=tinysrgb&fm=jpg&ixid=MnwxOTcwMjR8MHwxfHNlYXJjaHwzfHxsaW51eCUyMHRlcm1pbmFsfGVufDB8fHx8MTY3OTAxODY4Nw&ixlib=rb-4.0.3&q=80
 coverY: -23
