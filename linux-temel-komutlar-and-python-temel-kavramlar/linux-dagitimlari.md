@@ -1,5 +1,5 @@
 ---
-description: Kısa Giriş
+description: Linux Tarihine Kısa Giriş
 ---
 
 # Linux Dağıtımları
