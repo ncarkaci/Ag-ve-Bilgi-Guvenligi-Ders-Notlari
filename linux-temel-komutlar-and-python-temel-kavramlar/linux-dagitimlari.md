@@ -12,6 +12,8 @@ Daha sonralarında Richard Stallman GNU( GNU is Not UNIX) projesi üzerinde ç
 
 ## Linux Dağıtımları
 
+Linux, açık kaynak kodlu bir işletim sistemidir ve farklı türevleri olan birçok Linux dağıtımı vardır. Bu dağıtımlar, Linux çekirdeği, GNU araçları, paket yöneticileri, grafik arayüzleri, kullanıcı araçları ve diğer bileşenleri içeren farklı kombinasyonlardır. Her bir dağıtım, belirli bir amaca veya kullanıcı kitlesine yönelik olarak geliştirilir ve farklı özelliklere sahiptir.
+
 <figure><img src="https://upload.wikimedia.org/wikipedia/commons/8/8c/Linux_Distribution_Timeline_Dec._2020.svg" alt=""><figcaption><p>Linux dağıtım zaman çizelgesi (Kaynak: <a href="https://github.com/FabioLolix/LinuxTimeline">https://github.com/FabioLolix/LinuxTimeline</a>)</p></figcaption></figure>
 
 ## En sık kullanılan GNU/Linux dağıtımları
