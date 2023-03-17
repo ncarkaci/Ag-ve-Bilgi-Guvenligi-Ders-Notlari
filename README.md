@@ -20,7 +20,7 @@
 * [Zaafiyet Keşfi ve Yararlanma Yöntemleri](zaafiyet-kesfi.md)
 * [Zararlı Kod (Malware) Analizi](zararli-kod-analizi.md)
 * [Zararlı Kod (Malware) Oluşturma Yöntemleri](zararli-kod-olusturma-yoentemleri.md)
-* [Dijital Adli Analiz](dijital-adli-analiz/)
+* [Dijital Adli Analiz](dijital-adli-analiz.md)
 * [Web Güvenliği](web-guevenligi.md)
 * [Biyometrik güvenlik](biyometrik-guevenlik.md)
 * [Sosyal Mühendislik Saldırıları](sosyal-muehendislik-saldirilari.md)
