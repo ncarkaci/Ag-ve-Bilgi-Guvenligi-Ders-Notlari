@@ -1,3 +1,9 @@
+---
+cover: >-
+  https://images.unsplash.com/photo-1629654297299-c8506221ca97?crop=entropy&cs=tinysrgb&fm=jpg&ixid=MnwxOTcwMjR8MHwxfHNlYXJjaHwzfHxsaW51eCUyMHRlcm1pbmFsfGVufDB8fHx8MTY3OTAxODY4Nw&ixlib=rb-4.0.3&q=80
+coverY: -23
+---
+
 # Komut Satırı
 
 Linux Shell, kullanıcının komutları yazdığı ve çalıştırdığı bir komut yorumlayıcısıdır. Shell, kullanıcı ile işletim sistemi arasında bir arayüz görevi görür ve komutları kabul eder, yorumlar ve sonuçlarını kullanıcıya geri döndürür.
