@@ -1,11 +1,17 @@
 # İnternetin ilk yapısı
 
-İnternetin ilk yapısı, 1960'larda ABD Savunma Bakanlığı tarafından geliştirildi. Aslında, amacı askeri iletişimi sağlamaktı. Ancak, zaman içinde internet hayatımızın birçok alanında kullanılmaya başlandı ve güvenlik konusu önem kazandı.
+İnternet, 1960'ların sonlarında ABD'de ArpaNet adı verilen bir projenin başlatılmasıyla hayatımıza girdi. Bu projenin amacı, farklı bilgisayar sistemlerini birbirine bağlayarak, aralarındaki iletişimi sağlamaktı. Daha sonra, bu teknoloji geliştirilerek internetin temelini oluşturan TCP/IP protokolü ortaya çıktı. İlk internet bağlantısı 1971 yılında gerçekleştirildi ve 1980'lerde dünya genelinde kullanılmaya başlandı.
 
-Günümüzde, internetin yaygınlaşmasıyla birlikte, siber suçların sayısı da artıyor. Siber suçlar, veri sızıntıları, hırsızlıklar, siber saldırılar ve diğer tehditlerden oluşmaktadır. Bu tehditlerin önlenmesi, siber güvenlik önlemlerinin alınmasıyla mümkündür.
+1990'lı yıllarda, World Wide Web (WWW) adı verilen bir teknolojinin geliştirilmesiyle internet, daha geniş bir kullanıcı kitlesine ulaşmaya başladı. Bu teknoloji sayesinde, internet üzerindeki bilgiye kolayca erişmek mümkün hale geldi. Web tarayıcıları da bu dönemde ortaya çıktı ve internet kullanımı daha da yaygınlaştı.
 
-Siber güvenlik, kişisel ve kurumsal bilgilerin korunması için alınan önlemler bütünüdür. Siber güvenlik, bilgi güvenliği, ağ güvenliği, uygulama güvenliği, fiziksel güvenlik ve diğer alanların kapsamlı bir şekilde ele alınmasını gerektirir. Siber güvenlik önlemleri, güçlü şifreler kullanmak, güncel antivirüs programları yüklemek, internet üzerinde kimlik bilgilerini paylaşmamak, e-postaları ve diğer hesapları güvenli hale getirmek gibi temel önlemleri kapsar.
+2000'li yıllarda, internet kullanımı daha da artarak hayatımızın vazgeçilmez bir parçası haline geldi. İnternet üzerinden alışveriş yapmak, bankacılık işlemleri yapmak, sosyal medya kullanmak gibi birçok işlem artık internet üzerinden gerçekleştiriliyor. Bu dönemde, internet hızlarının artması ve kablosuz bağlantı teknolojilerinin gelişmesi de internet kullanımının yaygınlaşmasını sağladı.
 
-Özellikle son yıllarda, dünya çapındaki birçok önemli şirket, devlet kurumu ve hatta bireyler bile siber saldırılara uğramıştır. Bu saldırılar, maddi ve manevi kayıplara neden olabilir. Bu nedenle, siber güvenlik önlemleri almak, kişisel ve kurumsal bilgilerimizin güvenliğini sağlamak için oldukça önemlidir.
+Günümüzde, internet kullanımı artarak devam ediyor. Akıllı cihazlar ve IoT (Nesnelerin İnterneti) teknolojisi sayesinde, internetin kullanım alanı daha da genişledi. Ayrıca, 5G teknolojisi ve düşük yörüngeli uydu interneti (Starlink gibi) gibi yeni teknolojiler sayesinde, internet hızları ve erişim alanı daha da artacak gibi görünüyor.
 
-Siber güvenlik, sadece bir teknoloji meselesi değil, aynı zamanda kişisel ve kurumsal güvenliğimiz için de hayati önem taşıyan bir konudur. Siber güvenlik önlemlerini almak, bilgisayarlarımızdaki verilerimizi ve kişisel bilgilerimizi korumak için gereklidir.
+Ancak, internet kullanımının artmasıyla birlikte siber güvenlik tehditleri de artıyor. İnternet üzerinde yapılan saldırılar, kişisel bilgilerin çalınması, fidye yazılımları ve diğer tehditler internet kullanıcılarını tehdit ediyor. Bu nedenle, siber güvenlik önlemlerinin alınması ve kişisel bilgilerin korunması son derece önemli hale geldi.
+
+Siber güvenlik, kişisel ve kurumsal bilgilerin korunması için alınan önlemler bütünüdür. Bilgi güvenliği, ağ güvenliği, uygulama güvenliği, fiziksel güvenlik ve diğer alanların kapsamlı bir şekilde ele alınmasını gerektiriyor. Güçlü şifreler kullanmak, güncel antivirüs programları yüklemek, internet üzerinde kimlik bilgilerini paylaşmamak, e-postaları ve diğer hesapları güvenli hale getirmek gibi temel önlemler siber güvenlik kapsamında yer alıyor.
+
+Son yıllarda birçok önemli şirket, devlet kurumu ve hatta bireyler bile siber saldırılara uğradı. Bu saldırılar, maddi ve manevi kayıplara neden olabilir. Bu nedenle, siber güvenlik önlemleri almak, kişisel ve kurumsal bilgilerimizin güvenliğini sağlamak için oldukça önemlidir.
+
+Siber güvenlik, sadece bir teknoloji meselesi değil, aynı zamanda kişisel ve kurumsal güvenliğimiz için de hayati önem taşıyor. Bilgisayarlarımızdaki verilerimizi ve kişisel bilgilerimizi korumak için siber güvenlik önlemleri almak gerekiyor.
