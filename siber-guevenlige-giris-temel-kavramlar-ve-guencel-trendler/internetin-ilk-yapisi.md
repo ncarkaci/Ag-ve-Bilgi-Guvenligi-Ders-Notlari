@@ -1,3 +1,9 @@
+---
+cover: >-
+  https://images.unsplash.com/photo-1542382257-80dedb725088?crop=entropy&cs=tinysrgb&fm=jpg&ixid=MnwxOTcwMjR8MHwxfHNlYXJjaHwxfHxpbnRlcm5ldCUyMG5ldHdvcmt8ZW58MHx8fHwxNjc5MDE1NzM2&ixlib=rb-4.0.3&q=80
+coverY: 0
+---
+
 # İnternetin ilk yapısı
 
 İnternet, 1960'ların sonlarında ABD'de ArpaNet adı verilen bir projenin başlatılmasıyla hayatımıza girdi. Bu projenin amacı, farklı bilgisayar sistemlerini birbirine bağlayarak, aralarındaki iletişimi sağlamaktı. Daha sonra, bu teknoloji geliştirilerek internetin temelini oluşturan TCP/IP protokolü ortaya çıktı. İlk internet bağlantısı 1971 yılında gerçekleştirildi ve 1980'lerde dünya genelinde kullanılmaya başlandı.
