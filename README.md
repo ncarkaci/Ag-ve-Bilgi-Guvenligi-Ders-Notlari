@@ -1,7 +1,7 @@
 # Ağ ve Bilgi Güvenliği Ders Notları
 
-* [Siber Güvenliğe Giriş, Temel Kavramlar ve Güncel Trendler](siber-guevenlige-giris-temel-kavramlar-ve-guencel-trendler.md)
-* [Linux Temel Komutlar & Python Temel Kavramlar](linux-temel-komutlar-and-python-temel-kavramlar/README.md)
+* [Siber Güvenliğe Giriş, Temel Kavramlar ve Güncel Trendler](siber-guevenlige-giris-temel-kavramlar-ve-guencel-trendler/)
+* [Linux Temel Komutlar & Python Temel Kavramlar](linux-temel-komutlar-and-python-temel-kavramlar/)
   * [Linux Dağıtımları](linux-temel-komutlar-and-python-temel-kavramlar/linux-dagitimlari.md)
   * [Komut Satırı](linux-temel-komutlar-and-python-temel-kavramlar/komut-satiri.md)
   * [Text İşlemleri](linux-temel-komutlar-and-python-temel-kavramlar/text-islemleri.md)

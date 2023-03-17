@@ -1,7 +1,8 @@
 # Table of contents
 
 * [Ağ ve Bilgi Güvenliği Ders Notları](README.md)
-* [Siber Güvenliğe Giriş, Temel Kavramlar ve Güncel Trendler](siber-guevenlige-giris-temel-kavramlar-ve-guencel-trendler.md)
+* [Siber Güvenliğe Giriş, Temel Kavramlar ve Güncel Trendler](siber-guevenlige-giris-temel-kavramlar-ve-guencel-trendler/README.md)
+  * [İnternetin ilk yapısı](siber-guevenlige-giris-temel-kavramlar-ve-guencel-trendler/internetin-ilk-yapisi.md)
 * [Linux Temel Komutlar & Python Temel Kavramlar](linux-temel-komutlar-and-python-temel-kavramlar/README.md)
   * [Linux Dağıtımları](linux-temel-komutlar-and-python-temel-kavramlar/linux-dagitimlari.md)
   * [Komut Satırı](linux-temel-komutlar-and-python-temel-kavramlar/komut-satiri.md)
