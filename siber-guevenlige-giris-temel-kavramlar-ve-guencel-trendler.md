@@ -1,4 +1,5 @@
 ---
+description: Siber güvenliğe kısa bir giriş
 cover: >-
   https://images.unsplash.com/photo-1559581958-df379578606a?crop=entropy&cs=tinysrgb&fm=jpg&ixid=MnwxOTcwMjR8MHwxfHNlYXJjaHwxMHx8Y3liZXIlMjBzZWN1cml0eXxlbnwwfHx8fDE2NzkwMTUzODI&ixlib=rb-4.0.3&q=80
 coverY: 0
