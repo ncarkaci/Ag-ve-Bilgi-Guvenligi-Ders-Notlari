@@ -1,3 +1,9 @@
+---
+cover: >-
+  https://images.unsplash.com/photo-1544890225-2f3faec4cd60?crop=entropy&cs=tinysrgb&fm=jpg&ixid=MnwxOTcwMjR8MHwxfHNlYXJjaHw0fHxuZXR3b3JrJTIwaGFja3xlbnwwfHx8fDE2NzkxODI1NjU&ixlib=rb-4.0.3&q=80
+coverY: 54
+---
+
 # Ağ ve Bilgi Güvenliği Ders Notları
 
 * [Siber Güvenliğe Giriş, Temel Kavramlar ve Güncel Trendler](siber-guevenlige-giris-temel-kavramlar-ve-guencel-trendler.md)
