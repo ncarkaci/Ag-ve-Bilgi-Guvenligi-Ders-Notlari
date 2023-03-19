@@ -4,7 +4,7 @@ cover: >-
 coverY: 0
 ---
 
-# Dijital Adli Analiz
+# 📼 Dijital Adli Analiz
 
 ## Dijital adli analiz nedir?
 

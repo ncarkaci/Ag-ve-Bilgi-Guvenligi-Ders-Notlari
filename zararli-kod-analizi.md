@@ -1,2 +1,2 @@
-# Zararlı Kod Analizi
+# 👻 Zararlı Kod (Malware) Analizi
 

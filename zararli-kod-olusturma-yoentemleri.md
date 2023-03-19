@@ -1,2 +1,2 @@
-# Zararlı Kod Oluşturma Yöntemleri
+# 🦝 Zararlı Kod (Malware) Oluşturma Yöntemleri
 

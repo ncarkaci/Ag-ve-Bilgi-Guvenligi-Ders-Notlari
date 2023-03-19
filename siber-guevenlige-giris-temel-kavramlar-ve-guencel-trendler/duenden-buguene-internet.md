@@ -1,11 +1,11 @@
 ---
-description: Başlangıçtan günümüze internet yolculuğuna kısa bir bakış
+description: ArpaNet'den Starlink'e internetin yolculuğuna kısa bir bakış
 cover: >-
   https://images.unsplash.com/photo-1542382257-80dedb725088?crop=entropy&cs=tinysrgb&fm=jpg&ixid=MnwxOTcwMjR8MHwxfHNlYXJjaHw0fHxuZXR3b3JrfGVufDB8fHx8MTY3OTAxNTgxNA&ixlib=rb-4.0.3&q=80
 coverY: 0
 ---
 
-# İnternetin ilk yapısı
+# 🌗 Dünden bugüne internet
 
 İnternet, 1960'ların sonlarında ABD'de ArpaNet adı verilen bir projenin başlatılmasıyla hayatımıza girdi. Bu projenin amacı, farklı bilgisayar sistemlerini birbirine bağlayarak, aralarındaki iletişimi sağlamaktı. Daha sonra, bu teknoloji geliştirilerek internetin temelini oluşturan TCP/IP protokolü ortaya çıktı. İlk internet bağlantısı 1971 yılında gerçekleştirildi ve 1980'lerde dünya genelinde kullanılmaya başlandı.
 

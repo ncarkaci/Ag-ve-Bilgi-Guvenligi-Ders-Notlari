@@ -1,8 +1,10 @@
 ---
-description: Linux Tarihine Kısa Giriş
+description: 'Linux Tarihine Kısa Giriş: Distro savaşları'
+cover: ../.gitbook/assets/parrot_vs_kali.jpeg
+coverY: 300
 ---
 
-# Linux Dağıtımları
+# 💾 Linux dağıtımları
 
 Ken Thompson ve Dennis Ritchie, 1969 yılında Bell Laboratuvar’ında UNIX işletim sistemini geliştirdi. Daha sonra C programlama dilini geliştirdiler.
 

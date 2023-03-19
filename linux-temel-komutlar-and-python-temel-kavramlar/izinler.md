@@ -1,2 +1,2 @@
-# İzinler
+# 🔓 İzinler
 

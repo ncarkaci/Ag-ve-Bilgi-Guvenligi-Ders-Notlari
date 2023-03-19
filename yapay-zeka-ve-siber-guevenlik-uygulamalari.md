@@ -1,2 +1,2 @@
-# Yapay zeka ve siber güvenlik uygulamaları
+# 🥋 Yapay zeka ve siber güvenlik uygulamaları
 

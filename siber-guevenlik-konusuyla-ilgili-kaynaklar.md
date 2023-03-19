@@ -1,4 +1,10 @@
-# Kaynaklar
+---
+description: >-
+  Siber güvenlik alanında çalışan kişiler, web sayfaları, eğitimler,
+  konferanslar.
+---
+
+# 📚 Siber güvenlik konusuyla ilgili kaynaklar
 
 {% embed url="https://www.btkakademi.gov.tr/portal/catalog?categoryId=1003" %}
 

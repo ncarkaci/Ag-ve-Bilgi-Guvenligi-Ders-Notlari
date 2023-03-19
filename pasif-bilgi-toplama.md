@@ -1,2 +1,2 @@
-# Pasif Bilgi Toplama
+# 👀 Pasif Bilgi Toplama
 

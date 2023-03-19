@@ -1,2 +1,2 @@
-# Aktif Bilgi Toplama
+# 🧐 Aktif Bilgi Toplama
 
