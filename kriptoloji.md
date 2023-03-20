@@ -1,2 +1,0 @@
-# 🔑 Kriptoloji ve Şifreleme Sistemleri
-

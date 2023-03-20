@@ -1,2 +1,0 @@
-# Dijital delillerin raporlanması
-

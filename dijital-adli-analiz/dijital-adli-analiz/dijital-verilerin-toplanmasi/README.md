@@ -1,0 +1,2 @@
+# Dijital verilerin toplanması
+

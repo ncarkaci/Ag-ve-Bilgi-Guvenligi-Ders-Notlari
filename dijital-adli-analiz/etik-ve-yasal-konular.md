@@ -1,2 +1,0 @@
-# Etik ve yasal konular
-
