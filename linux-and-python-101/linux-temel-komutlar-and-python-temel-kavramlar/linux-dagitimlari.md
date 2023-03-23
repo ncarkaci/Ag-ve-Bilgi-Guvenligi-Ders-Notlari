@@ -6,11 +6,13 @@ coverY: 300
 
 # 💾 Linux dağıtımları
 
-Ken Thompson ve Dennis Ritchie, 1969 yılında Bell Laboratuvar’ında UNIX işletim sistemini geliştirdi. Daha sonra C programlama dilini geliştirdiler.
+Ken Thompson ve Dennis Ritchie, Bell Labs'ta 1969 yılında UNIX işletim sistemini geliştirdiler ve daha sonra C programlama dilini geliştirdiler. UNIX, zamanının önde gelen işletim sistemlerinden biri haline geldi. Günümüzde bir çok uygulama unix tabanlı işletim sistemleri üzerinde çalıştırılıyor.&#x20;
 
 <figure><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Ken_Thompson_(sitting)_and_Dennis_Ritchie_at_PDP-11_(2876612463).jpg/749px-Ken_Thompson_(sitting)_and_Dennis_Ritchie_at_PDP-11_(2876612463).jpg" alt=""><figcaption><p>Ken Thompson and Dennis Ritchie at PDP-11/20 (Kaynak : <a href="https://www.bell-labs.com/usr/dmr/www/picture.html">https://www.bell-labs.com/usr/dmr/www/picture.html</a>)</p></figcaption></figure>
 
-Daha sonralarında Richard Stallman GNU( GNU is Not UNIX) projesi üzerinde çalışmaya başladı. GNU çekirdeğinin adı Hurd. Bu sırada UNIX benzeri işletim sistemi olan MINIX’de geliştirildi. 1991’de ise Linus Torvalds bugünkü Linux çekirdeğini geliştirmeye başladı.
+Richard Stallman, GNU projesi üzerinde çalışmaya başladı ve GNU'nun çekirdeği olarak Hurd'un geliştirilmesi için çaba gösterdi. Ancak Hurd projesi henüz tamamlanmadı ve GNU, Linux çekirdeği ile birleştirilerek bugünün popüler işletim sistemi olan GNU/Linux'u oluşturdu.
+
+Aynı zamanda, Andrew S. Tanenbaum tarafından geliştirilen ve öğrenim amaçlı tasarlanmış olan UNIX benzeri bir işletim sistemi olan MINIX de geliştirilmeye başlandı. Linus Torvalds, MINIX'den esinlenerek 1991 yılında Linux çekirdeğinin geliştirilmesine başladı. Linux, açık kaynak kodlu bir işletim sistemi olarak hızla popülerlik kazandı ve günümüzde birçok farklı cihazda kullanılıyor.
 
 ## Linux Dağıtımları
 
