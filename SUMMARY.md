@@ -6,12 +6,15 @@
 
 * [🥷 Siber Güvenliğe Giriş: Temel Kavramlar ve Güncel Trendler](siber-guevenlik-101/siber-guevenlige-giris-temel-kavramlar-ve-guencel-trendler/README.md)
   * [🌗 Dünden bugüne internet](siber-guevenlik-101/siber-guevenlige-giris-temel-kavramlar-ve-guencel-trendler/duenden-buguene-internet.md)
-  * [🚨 Siber saldırı alanları](siber-guevenlik-101/siber-guevenlige-giris-temel-kavramlar-ve-guencel-trendler/siber-saldiri-alanlari.md)
-  * [🐪 Siber saldırıların gelişimi](siber-guevenlik-101/siber-guevenlige-giris-temel-kavramlar-ve-guencel-trendler/siber-saldirilarin-gelisimi.md)
-  * [🥊 Siber savaş](siber-guevenlik-101/siber-guevenlige-giris-temel-kavramlar-ve-guencel-trendler/siber-savas.md)
   * [🦧 Doğru bilinen yanlışlar](siber-guevenlik-101/siber-guevenlige-giris-temel-kavramlar-ve-guencel-trendler/dogru-bilinen-yanlislar.md)
+  * [🚨 Siber saldırı alanları](siber-guevenlik-101/siber-guevenlige-giris-temel-kavramlar-ve-guencel-trendler/siber-saldiri-alanlari.md)
+  * [🌍 Dünyada ne değişti](siber-guevenlik-101/siber-guevenlige-giris-temel-kavramlar-ve-guencel-trendler/duenyada-ne-degisti.md)
+  * [🚄 Siber saldırıların gelişimi](siber-guevenlik-101/siber-guevenlige-giris-temel-kavramlar-ve-guencel-trendler/siber-saldirilarin-gelisimi.md)
+  * [🥊 Siber savaş mı?](siber-guevenlik-101/siber-guevenlige-giris-temel-kavramlar-ve-guencel-trendler/siber-savas-mi.md)
+  * [🎯 APT (Hedef Odaklı Saldırılar)](siber-guevenlik-101/siber-guevenlige-giris-temel-kavramlar-ve-guencel-trendler/apt-hedef-odakli-saldirilar.md)
+  * [🏌♂ Siber Tehditlerin Hedefleri](siber-guevenlik-101/siber-guevenlige-giris-temel-kavramlar-ve-guencel-trendler/siber-tehditlerin-hedefleri.md)
   * [🔫 Siber tehditlerin özellikleri](siber-guevenlik-101/siber-guevenlige-giris-temel-kavramlar-ve-guencel-trendler/siber-tehditlerin-oezellikleri.md)
-  * [Siber güvenlik çalışma alanları](siber-guevenlik-101/siber-guevenlige-giris-temel-kavramlar-ve-guencel-trendler/siber-guevenlik-calisma-alanlari.md)
+  * [🕸 Siber güvenlik çalışma alanları](siber-guevenlik-101/siber-guevenlige-giris-temel-kavramlar-ve-guencel-trendler/siber-guevenlik-calisma-alanlari.md)
   * [📈 Güncel trendler](siber-guevenlik-101/siber-guevenlige-giris-temel-kavramlar-ve-guencel-trendler/guencel-trendler.md)
   * [🏴☠ CTF yarışmaları](siber-guevenlik-101/siber-guevenlige-giris-temel-kavramlar-ve-guencel-trendler/ctf-yarismalari.md)
   * [⁉ Siber güvenlik uzmanı olmak için ne gerekli ?](siber-guevenlik-101/siber-guevenlige-giris-temel-kavramlar-ve-guencel-trendler/siber-guevenlik-uzmani-olmak-icin-ne-gerekli.md)
@@ -37,7 +40,11 @@
 
 ## Bilgi Güvenliği
 
-* [🧯 Bilgi Güvenliği ve Risk Analizi](bilgi-guevenligi/risk-analizi.md)
+* [🧯 Bilgi Güvenliği ve Risk Analizi](bilgi-guevenligi/risk-analizi/README.md)
+  * [Bilgi Güvenliği Yönetimi](bilgi-guevenligi/risk-analizi/bilgi-guevenligi-yoenetimi.md)
+  * [Bilgi güvenliği programı](bilgi-guevenligi/risk-analizi/bilgi-guevenligi-programi.md)
+  * [Ne kadar Güvenlik Gerekli?](bilgi-guevenligi/risk-analizi/ne-kadar-guevenlik-gerekli.md)
+  * [Uygulama : Risk Analizi](bilgi-guevenligi/risk-analizi/uygulama-risk-analizi.md)
 
 ## Şifreleme Sistemleri
 

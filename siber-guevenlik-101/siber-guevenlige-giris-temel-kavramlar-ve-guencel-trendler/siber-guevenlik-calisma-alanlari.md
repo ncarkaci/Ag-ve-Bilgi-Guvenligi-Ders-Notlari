@@ -1,2 +1,2 @@
-# Siber güvenlik çalışma alanları
+# 🕸 Siber güvenlik çalışma alanları
 

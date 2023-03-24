@@ -4,7 +4,7 @@ cover: >-
 coverY: 0
 ---
 
-# 🐪 Siber saldırıların gelişimi
+# 🚄 Siber saldırıların gelişimi
 
 {% embed url="https://public.tableau.com/views/ITUFactsandFigures2021/InternetUse01?:display_count=n&:language=en-US&:origin=viz_share_link" %}
 ITU Facts and Figures 2021 [International Telecommunication Union](https://public.tableau.com/app/profile/ituint)\

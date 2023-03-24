@@ -5,5 +5,6 @@ cover: >-
 coverY: 0
 ---
 
-# 🐍 Python Temel Kavramlar
+# 🐍 Python Hızlı Bir Bakış
 
+{% embed url="https://colab.research.google.com/drive/19ehzbkysdJSa0uswcy9bs9CI1SVfOEk9?usp=sharing" %}

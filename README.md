@@ -26,3 +26,7 @@ Burası açık kaynak bir platform ve içeriklerin kullanılmasında, projeye ka
 {% content-ref url="linux-and-python-101/python-hizli-bir-bakis.md" %}
 [python-hizli-bir-bakis.md](linux-and-python-101/python-hizli-bir-bakis.md)
 {% endcontent-ref %}
+
+{% content-ref url="bilgi-guevenligi/risk-analizi/" %}
+[risk-analizi](bilgi-guevenligi/risk-analizi/)
+{% endcontent-ref %}
