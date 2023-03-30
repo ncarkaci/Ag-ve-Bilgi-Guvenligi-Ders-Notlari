@@ -49,7 +49,7 @@
 
 ## Şifreleme Sistemleri
 
-* [🔑 Kriptoloji ve Şifreleme Sistemleri](sifreleme-sistemleri/kriptoloji/README.md)
+* [🔑 Kriptoloji ve Şifreleme Sistemleri](sifreleme-sistemleri/kriptoloji.md)
   * [📚 Kısa tarihçe](sifreleme-sistemleri/kriptoloji/kisa-tarihce.md)
   * [🚀 Uygulama : Mors alfabesi](sifreleme-sistemleri/kriptoloji/uygulama-mors-alfabesi.md)
 * [🦉 Stenografi ve Bilgi Gizleme Yöntemleri](sifreleme-sistemleri/stenografi.md)
