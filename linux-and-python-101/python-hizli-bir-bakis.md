@@ -8,3 +8,7 @@ coverY: 0
 # 🐍 Python Hızlı Bir Bakış
 
 {% embed url="https://colab.research.google.com/drive/19ehzbkysdJSa0uswcy9bs9CI1SVfOEk9?usp=sharing" %}
+
+{% embed url="https://www.datacamp.com/courses/intro-to-python-for-data-science" %}
+
+{% embed url="https://www.coursera.org/learn/python-crash-course" %}
