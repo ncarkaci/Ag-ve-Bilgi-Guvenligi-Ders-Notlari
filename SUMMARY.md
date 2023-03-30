@@ -35,6 +35,7 @@
   * [🦖 İşlemler](linux-and-python-101/linux-temel-komutlar-and-python-temel-kavramlar/islemler.md)
   * [🔓 İzinler](linux-and-python-101/linux-temel-komutlar-and-python-temel-kavramlar/izinler.md)
   * [📂 Dosya işlemleri](linux-and-python-101/linux-temel-komutlar-and-python-temel-kavramlar/dosya-islemleri.md)
+  * [🚀 Uygulama: Temel linux komutları](linux-and-python-101/linux-temel-komutlar-and-python-temel-kavramlar/uygulama-temel-linux-komutlari.md)
   * [🚀 Uygulama : OverTheWire:Bandit](linux-and-python-101/linux-temel-komutlar-and-python-temel-kavramlar/uygulama-overthewire-bandit.md)
 * [🐍 Python Hızlı Bir Bakış](linux-and-python-101/python-hizli-bir-bakis.md)
 
