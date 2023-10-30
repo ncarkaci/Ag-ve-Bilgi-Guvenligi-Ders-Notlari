@@ -9,9 +9,7 @@ coverY: 60
 
 Farklı zamanlarda ve yerlerde verdiğim, vermeye devam ettiğim siber güvenlik temalı ders notlarını tek bir yerde toplamaya karar verdim. Uzun zamandır bunu yapmayı istiyordum. Blog oluşturmaya, web sayfası yönetmeye çok üşendiğim için çalışmalar sunumlarda kalmıştı. Bir yerden başlamak gerek diye düşünüp gitbook'da bir proje oluşturup yola koyuldum.
 
-<figure><img src=".gitbook/assets/bismillah.gif" alt=""><figcaption></figcaption></figure>
-
-Buradaki ders notlarında bazen çalışma arkadaşlarım ve öğrencilerimde destek oldu, bazı konuları ders aldığım hocalarımın ders notlarından aldım, bazılarını da internette bulduğum kaynaklardan aldım, bazı içerikleri dil modellerini kullanarak oluşturdum. Kaynaklara referans vermeye elimden geldiğince dikkat ettim, yinede referans verilmediğini düşündüğünüz kaynak olursa ekleyebilir, size ait olduğu düşündüğünüz içerik varsa ve kaldırılmasını istiyorsanız bana yazabilirsiniz (itinayla içerik kaldırılır :).&#x20;
+Buradaki ders notlarında bazen çalışma arkadaşlarım ve öğrencilerimde destek oldu, bazı konuları ders aldığım hocalarımın ders notlarından aldım, bazılarını da internette bulduğum kaynaklardan aldım, bazı içerikleri dil modellerini kullanarak oluşturdum. Kaynaklara referans vermeye elimden geldiğince dikkat ettim, yinede referans verilmediğini düşündüğünüz kaynak olursa ekleyebilir, size ait olduğu düşündüğünüz içerik varsa ve kaldırılmasını istiyorsanız bana yazabilirsiniz.&#x20;
 
 Burası açık kaynak bir platform ve içeriklerin kullanılmasında, projeye katkı yapmakta serbestsiniz ;) Son olarak buradaki dökümanlar ders notları o yüzden eksik, yanlış kısımlar olabilir, bana yazarsanız ya da github reposunda issue açarsanız zamanla, elbirliği ile tamamlanır diye düşünüyorum. Şimdi buna ne gerek var, zaten tonlarca siber güvenlik ile ilgili kaynak var, literatür sürekli güncelleniyor, buradaki içerikler eski kalacak gibi sorular oluşabilir kafanızda. Evet haklısınız o sorular benim de aklımdan geçiyor :hear\_no\_evil::see\_no\_evil::speak\_no\_evil:&#x20;
 
