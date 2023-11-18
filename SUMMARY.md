@@ -29,6 +29,7 @@
   * [💾 Linux dağıtımları](linux-and-python-101/linux-temel-komutlar-and-python-temel-kavramlar/linux-dagitimlari.md)
   * [💻 Komut satırı](linux-and-python-101/linux-temel-komutlar-and-python-temel-kavramlar/komut-satiri.md)
   * [🏆 En sık kullanılan linux komutları](linux-and-python-101/linux-temel-komutlar-and-python-temel-kavramlar/en-sik-kullanilan-linux-komutlari.md)
+  * [Dizin yapısı](linux-and-python-101/linux-temel-komutlar-and-python-temel-kavramlar/dizin-yapisi.md)
   * [🔐 Kritik dosyalar](linux-and-python-101/linux-temel-komutlar-and-python-temel-kavramlar/kritik-dosyalar.md)
   * [🖊 Text işlemleri](linux-and-python-101/linux-temel-komutlar-and-python-temel-kavramlar/text-islemleri.md)
   * [👨💻 Kullanıcı yönetimi](linux-and-python-101/linux-temel-komutlar-and-python-temel-kavramlar/kullanici-yoenetimi.md)
