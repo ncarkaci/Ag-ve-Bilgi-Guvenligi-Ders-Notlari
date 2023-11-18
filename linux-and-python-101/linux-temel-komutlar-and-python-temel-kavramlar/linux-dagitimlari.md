@@ -2,6 +2,20 @@
 description: 'Linux Tarihine Kısa Giriş: Distro savaşları'
 cover: ../../.gitbook/assets/parrot_vs_kali.jpeg
 coverY: 300
+layout:
+  cover:
+    visible: true
+    size: full
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
 ---
 
 # 💾 Linux dağıtımları
