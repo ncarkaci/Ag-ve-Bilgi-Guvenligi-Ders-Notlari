@@ -1,0 +1,2 @@
+# 🌍 Dünyada ne değişti
+

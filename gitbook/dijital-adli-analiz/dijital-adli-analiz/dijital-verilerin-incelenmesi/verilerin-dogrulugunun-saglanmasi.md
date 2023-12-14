@@ -1,0 +1,2 @@
+# Verilerin doğruluğunun sağlanması
+
