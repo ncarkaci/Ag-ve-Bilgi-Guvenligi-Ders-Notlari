@@ -1,24 +1,24 @@
 # Ağ ve Bilgi Güvenliği Ders Notları
 
-1. Ders : Siber Güvenliğe Giriş, Temel Kavramlar ve Güncel Trendler
-2. Ders : Linux Temel Komutlar & Python Temel Kavramlar
-3. Ders : Risk Analizi
-4. Ders : Kriptoloji
-5. Ders : Stenografi
-6. Ders : Sızma Testi Süreçleri
-7. Ders : Pasif Bilgi Toplama
-8. Ders : Aktif Bilgi Toplama
-9. Ders : Ağ Güvenliği
-10. Ders : Zaafiyet Keşfi
-11. Ders : Zararlı Kod Analizi
-12. Ders : Zararlı Kod Oluşturma Yöntemleri
-13. Ders : Dijital Adli Analiz
-14. Ders : Web Güvenliği
-15. Ders : Sosyal Mühendislik Saldırıları
-16. Ders : Mobil Sistem Güvenliği
-17. Ders : Yazılım güvenliği ve güvenli yazılım geliştirme
-18. Ders : Veritabanı güvenliği
-19. Ders : Biyometrik güvenlik
-20. Ders : Yapay zeka ve siber güvenlik uygulamaları
-
-konularında sunum ve uygulamaların olduğu ağ ve bilgi güvenliği ders sayfası.
+| Hafta | Konu                                                         | Sunum                                                                                                               | Lab Dökümanı                                           | Ödev                                                     |
+|-------|--------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------|----------------------------------------------------------|
+| 1     | [Siber Güvenliğe Giriş, Temel Kavramlar ve Güncel Trendler](./1.%20Ders%20-%20Siber%20Güvenliğe%20Giriş%20Temel%20Kavramlar%20ve%20Güncel%20Trendler) | [Google Slides](https://docs.google.com/presentation/d/1xg1YcRaOrPO1yHXBsA_H_cAUzhosSppZYUNV3iQRjYM/edit?usp=sharing) | -                                                      | -                             |
+| 2     | Risk Analizi               | -                                                                                                                    | -                                                      | -                             |
+| 3     | Linux Temel Komutlar & Python Temel Kavramlar                                                 | -                                                                                                                    | -                                                      | -                                                        |
+| 4     | Kriptoloji                                                   | -                                                                                                                    | -                                                      | -                             |
+| 5     | Stenografi                                                   | -                                                                                                                    | -                                                      | -                                                        |
+| 6     | Sızma Testi Süreçleri                                        | -                                                                                                                    | -                                                      | -                             |
+| 7     | Pasif Bilgi Toplama                                          | -                                                                                                                    | -                                                      | -                                                        |
+| 8     | Aktif Bilgi Toplama                                          | -                                                                                                                    | -                                                      | -                             |
+| 9     | Ağ Güvenliği                                                 | -                                                                                                                    | -                                                      | -                                                        |
+| 10    | Zaafiyet Keşfi                                               | -                                                                                                                    | -                                                      | -                             |
+| 11    | Zararlı Kod Analizi                                          | -                                                                                                                    | -                                                      | -                                                        |
+| 12    | Zararlı Kod Oluşturma Yöntemleri                             | -                                                                                                                    | -                                                      | -                             |
+| 13    | Dijital Adli Analiz                                          | -                                                                                                                    | -                                                      | -                                                        |
+| 14    | Web Güvenliği                                                | -                                                                                                                    | -                                                      | -                             |
+| 15    | Sosyal Mühendislik Saldırıları                               | -                                                                                                                    | -                                                      | -                                                        |
+| 16    | Mobil Sistem Güvenliği                                       | -                                                                                                                    | -                                                      | -                             |
+| 17    | Yazılım güvenliği ve güvenli yazılım geliştirme              | -                                                                                                                    | -                                                      | -                                                        |
+| 18    | Veritabanı güvenliği                                         | -                                                                                                                    | -                                                      | -                           |
+| 19    | Biyometrik güvenlik                                          | -                                                                                                                    | -                                                      | -                                                        |
+| 20    | Yapay zeka ve siber güvenlik uygulamaları                    | -                                                                                                                    | -                                                      | -                           |
